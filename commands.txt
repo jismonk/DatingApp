@@ -43,3 +43,9 @@ git init
 Add github repository to your computer
 --------------------------------
 git remote add origin https://github.com/jismonk/DatingApp.git
+
+To create Router guards:
+------------------
+Cd to the desired folder in the terminal and run the command below
+
+ng g guard auth --spec=false
