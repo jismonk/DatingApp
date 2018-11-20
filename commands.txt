@@ -49,3 +49,9 @@ To create Router guards:
 Cd to the desired folder in the terminal and run the command below
 
 ng g guard auth --spec=false
+
+Add Automapper
+--------------
+Press Ctrl + Shift + P 
+Enter Automapper
+Select AutoMapper.Extensions.Microsoft.DependencyInjection
